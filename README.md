@@ -4,6 +4,10 @@
 - [Install Packages](#Install-Packages)
 - [Execution of Stitching Images](#Execution-Of-Stitching-Images)
 
+## Topologi
+
+<img width="600" alt="topologi" src="https://github.com/MUHTADIN345/Images-Stitching/assets/126330305/022b14c5-d641-45d3-ac97-312509856782">
+
 ## Install Packages
 
 1. Install Imutils
