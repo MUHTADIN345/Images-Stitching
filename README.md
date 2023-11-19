@@ -1,7 +1,7 @@
 # Images-Stitching
 
 ## Table Of Content
-- [Install Packages](#Install-Packages)
+- [Install Packages](Install-Packages)
 - [Execution of Stitching Images](Execution-Of-Stitching-Images)
 
 ## Install Packages
@@ -26,13 +26,15 @@
 ## Execution of Stitching Images
 1. Enter the directory that contains the image stitching code and the directory of images to be stitched
 
-![WhatsApp Image 2023-11-16 at 14 47 04_68fca445](https://github.com/tasyabarus20/Image-Stitching/assets/150136650/324e23a0-0d3b-425d-8cb2-f63ff2ca46f2)
+<img width="1000" alt="file" src="https://github.com/MUHTADIN345/Images-Stitching/assets/126330305/3811e97f-245c-45d7-87da-e4b93f555715">
+
 
 image_stitching_simple.py is the program that will be used to execute image stitching. 
 
 2. The directory of images to be stitched:
 
-   ![image](https://github.com/tasyabarus20/Image-Stitching/assets/150136650/cfe66552-476e-4a64-9369-3500dc10c198)
+   <img width="800" alt="Screenshot 2023-11-18 193326" src="https://github.com/MUHTADIN345/Images-Stitching/assets/126330305/43c096fa-0e59-4074-bed9-e69d87e41fb7">
+
 
 3. image_stitching_simple.py contains the following code.
     ```bash
@@ -92,7 +94,8 @@ image_stitching_simple.py is the program that will be used to execute image stit
    ```
 5. Then the output will appear in the form of images that have been stitched
 
-   ![WhatsApp Image 2023-11-16 at 14 54 43_218ad8d7](https://github.com/tasyabarus20/Image-Stitching/assets/150136650/ae9ca6a7-953d-4b22-9a5d-d964a612a50f)
+   ![output](https://github.com/MUHTADIN345/Images-Stitching/assets/126330305/15f688b6-e235-464c-b2b2-eb8faad94d72)
+
 
    
 
