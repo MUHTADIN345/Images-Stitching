@@ -1,8 +1,8 @@
 # Images-Stitching
 
 ## Table Of Content
-- [Install Packages](Install-Packages)
-- [Execution of Stitching Images](Execution-Of-Stitching-Images)
+- [Install Packages](#Install-Packages)
+- [Execution of Stitching Images](#Execution-Of-Stitching-Images)
 
 ## Install Packages
 
